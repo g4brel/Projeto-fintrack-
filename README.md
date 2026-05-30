@@ -801,5 +801,5 @@ export default function App() {
 
 ```
 
-obs o codigo foi corrigido pela ia porem feito por mi 
+obs: o codigo foi corrigido pela ia porem feito por     mim 
 feito para financas 
