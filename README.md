@@ -805,3 +805,14 @@ export default function App() {
 
 obs: o codigo foi corrigido pela ia porem feito por     mim 
 feito para financas 
+
+
+Descrição 
+Interface: Desenvolvida em React utilizando Tailwind CSS e Lucide Icons, mantendo total fidelidade ao protótipo de alta fidelidade (Design System Crimson/Dark).
+* Consumo de API (GET): Integração assíncrona com a  contendo tratamento de estados de Loading e Error na UI.
+* Funcionalidades: Sistema reativo de login, manipulação dinâmica de saldo, inserção de despesas/receitas via Bottom Sheet e barras de progresso para metas de bolso 
+
+
+
+
+
