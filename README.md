@@ -17,7 +17,7 @@ export default function App() {
     { name: 'Gabriel Silva', email: 'gabriel@fintrack.pt', password: '1234' }
   ]);
 
-  // --- CONTROLO DE NAVEGAÇÃO SPA ---
+  // --- CONTROLOlE DE NAVEGAÇÃO SPA ---
   const [currentScreen, setCurrentScreen] = useState('login'); // login, recuperar, registar, app
   const [activeTab, setActiveTab] = useState('dashboard'); // dashboard, gastos, metas, definicoes
   const [activeSubScreen, setActiveSubScreen] = useState('menu'); // menu, perfil (dentro de definicoes)
@@ -25,7 +25,7 @@ export default function App() {
   // --- SISTEMA DE COR DE TEMA DINÂMICA ---
   const [themeColor, setThemeColor] = useState('#E51D3E'); // Crimson Red original do Lucidspark
 
-  // --- CONTROLOS DOS MODAIS (BOTTOM SHEET) ---
+  // --- CONTROLES DOS MODAIS (BOTTOM SHEET) ---
   const [showNovoLancamento, setShowNovoLancamento] = useState(false);
   const [showNovaMeta, setShowNovaMeta] = useState(false);
 
